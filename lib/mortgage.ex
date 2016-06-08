@@ -1,0 +1,2 @@
+defmodule Mortgage do
+end
